@@ -28,13 +28,13 @@
   
   <!-- Baris Kedua -->
   <tr>
-    <td width="50%" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 20px; border: 1px solid #334155; text-align: center; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-      <h3 style="color: #818cf8; margin-top:0; border-bottom: none; font-size: 14px;">Development Stats</h3>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hensenisme&theme=transparent&hide_border=true&title_color=a78bfa&text_color=cbd5e1&icon_color=60a5fa" alt="GitHub Stats" />
+    <td width="50%" valign="top" align="center">
+      <h3 style="color: #818cf8; font-size: 14px;">Development Stats</h3>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hensenisme&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
-    <td width="50%" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 20px; border: 1px solid #334155; text-align: center; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-      <h3 style="color: #818cf8; margin-top:0; border-bottom: none; font-size: 14px;">Top Languages</h3>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hensenisme&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1" alt="Top Languages" />
+    <td width="50%" valign="top" align="center">
+      <h3 style="color: #818cf8; font-size: 14px;">Top Languages</h3>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hensenisme&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 
