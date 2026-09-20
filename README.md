@@ -8,34 +8,79 @@
 <table align="center" width="850" style="background-color: #0d1117; border-collapse: separate; border-spacing: 15px; border: none;">
   <!-- Baris Pertama -->
   <tr>
-    <td width="60%" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+    <td colspan="2" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
       <h2 style="color: #a78bfa; margin-top:0; border-bottom: none;">👋 Hi, I'm Hensen</h2>
       <p style="color: #cbd5e1; font-size: 15px; line-height: 1.6;">
-        <b>Software & IoT Engineer</b> bridging the gap between Hardware and Cloud.
+        <b>Software & IoT Engineer</b> dedicated to building seamless digital ecosystems. I specialize in bridging intelligent <b>Hardware & Embedded Systems</b> with high-performance <b>Web and Mobile Applications</b>.
       </p>
       <ul>
-        <li>⚡ Building end-to-end IoT solutions from scratch.</li>
-        <li>🔌 Connecting microcontrollers with scalable Cloud backends.</li>
-        <li>📱 Designing sleek interfaces with Next.js & Flutter.</li>
+        <li>⚡ <b>Hardware & IoT:</b> Designing custom circuits, configuring microcontrollers (ESP32/Raspberry Pi), and implementing MQTT architectures.</li>
+        <li>🔌 <b>Backend & Cloud:</b> Architecting scalable APIs and automating DevOps pipelines.</li>
+        <li>📱 <b>Frontend & Mobile:</b> Crafting sleek, responsive user interfaces with Next.js & Flutter.</li>
       </ul>
       <br/>
       <a href="mailto:hensenisme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <!-- <a href="https://hensen.id"><img src="https://img.shields.io/badge/Website-hensen.id-0f172a?style=flat-square&logo=google-chrome&logoColor=white" /></a> -->
-      <!-- <a href="https://linkedin.com/in/hendrig"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
     </td>
-    <td width="40%" valign="top" align="center">
+  </tr>
+
+  <!-- Baris Kedua: Tech Arsenal -->
+  <tr>
+    <td colspan="2" valign="top" align="left" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
       <h3 style="color: #60a5fa; margin-top:0; border-bottom: none;">🛠 Tech Arsenal</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart&perline=6" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,nodejs,tailwind&perline=6" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git&perline=6" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros&perline=6" /><br/><br/>
-      <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/badge/FreeRTOS-232F3E?style=for-the-badge&logo=freertos&logoColor=white" />
-      <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+      
+      <p><b>💻 Languages</b><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      </p>
+
+      <p><b>🚀 Frameworks (Web & Mobile)</b><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+
+      <p><b>🗄️ Databases & Cache</b><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+
+      <p><b>☁️ Cloud & Platforms</b><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+      </p>
+
+      <p><b>🛠 DevOps & OS</b><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      </p>
+
+      <p><b>⚙️ Hardware & IoT</b><br/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=black" />
+      <img src="https://img.shields.io/badge/FreeRTOS-232F3E?style=flat-square&logo=freertos&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+      </p>
     </td>
   </tr>
   
