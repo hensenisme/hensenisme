@@ -1,50 +1,54 @@
-<!-- Header Section dengan Animasi SVG -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hensen!+%F0%9F%91%8B;Fullstack+Software+Engineer;Building+Modern+Web+Apps" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <em>Transforming complex problems into elegant, scalable solutions.</em>
-</p>
+<!-- Bento Box Theme README (Personalized for Hensen) -->
+<div align="center">
+  <h1 style="border-bottom: none;">Hensen's Dashboard</h1>
+</div>
 
 <br/>
 
-<!-- Section 1: Tech Stack dengan Skill Icons modern -->
-### ⚡ Tech Arsenal
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,prisma,postgres,docker,git&perline=10&theme=light" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Section 2: GitHub Stats ala Bento Grid (Menggunakan tabel transparan Markdown) -->
-### 📊 Developer Metrics
-<table border="0" width="100%" align="center">
+<table align="center" width="850" style="background-color: #0d1117; border-collapse: separate; border-spacing: 15px; border: none;">
+  <!-- Baris Pertama -->
   <tr>
-    <td width="50%" align="center">
-      <!-- GitHub Stats (Transparent/Modern Theme) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=hensenisme&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=475569" alt="GitHub Stats" />
+    <td width="60%" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+      <h2 style="color: #a78bfa; margin-top:0; border-bottom: none;">👋 Hi, I'm Hensen</h2>
+      <p style="color: #cbd5e1; font-size: 16px; line-height: 1.6;">
+        A <b>Software & IoT Engineer</b> bridging the gap between Hardware and Cloud. I build end-to-end solutions—from microcontrollers and MQTT brokers to scalable Node.js backends and sleek Next.js/Flutter apps.
+      </p>
+      <br/>
+      <a href="https://hensen.id"><img src="https://img.shields.io/badge/Website-hensen.id-0f172a?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/hensenisme"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <a href="mailto:hensenisme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
     </td>
-    <td width="50%" align="center">
-      <!-- Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hensenisme&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=475569" alt="Top Languages" />
+    <td width="40%" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; text-align: center; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #60a5fa; margin-top:0; border-bottom: none;">🛠 Tech Arsenal</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter,nodejs,postgres,mongodb,docker,arduino,raspberrypi&perline=4" />
+      </a>
+    </td>
+  </tr>
+  
+  <!-- Baris Kedua -->
+  <tr>
+    <td width="50%" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 20px; border: 1px solid #334155; text-align: center; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #818cf8; margin-top:0; border-bottom: none; font-size: 14px;">Development Stats</h3>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hensenisme&theme=transparent&hide_border=true&title_color=a78bfa&text_color=cbd5e1&icon_color=60a5fa" alt="GitHub Stats" />
+    </td>
+    <td width="50%" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 20px; border: 1px solid #334155; text-align: center; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #818cf8; margin-top:0; border-bottom: none; font-size: 14px;">Top Languages</h3>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hensenisme&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1" alt="Top Languages" />
+    </td>
+  </tr>
+
+  <!-- Baris Ketiga -->
+  <tr>
+    <td colspan="2" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; text-align: left; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+      <h3 style="color: #34d399; margin-top:0; border-bottom: none;">🚀 Featured Project: Digi-Plug (IoT Smart Home)</h3>
+      <p style="color: #cbd5e1; font-size: 15px; margin-bottom: 0;">
+        Built an end-to-end IoT Smart Home MVP from scratch. Leveraged <b>ESP32</b> and <b>MQTT</b> for hardware communication, managed data streams with <b>Node.js & MongoDB</b>, and wrapped it all in a seamless user experience using <b>Flutter</b> and <b>Next.js</b>.
+      </p>
     </td>
   </tr>
 </table>
 
-<br/>
-
-<!-- Section 3: Let's Connect -->
-### 🤝 Let's Collaborate
-<p align="left">
-  <a href="mailto:email-anda@domain.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/username-anda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://porto-nextjs-domainanda.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hensenisme&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
+  <p style="color: #64748b; font-size: 12px; margin-top: 20px;">Designed with Glassmorphism Aesthetic • <a href="https://hensen.id" style="color: #64748b; text-decoration: underline;">Visit hensen.id</a></p>
+</div>
