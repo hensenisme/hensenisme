@@ -21,17 +21,13 @@
     </td>
     <td width="40%" valign="top" align="center">
       <h3 style="color: #60a5fa; margin-top:0; border-bottom: none;">🛠 Tech Arsenal</h3>
-      
-      <p style="margin-bottom: 5px; font-size: 14px;"><b>💻 Languages</b></p>
+      <br/>
       <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart&perline=6" />
-      
-      <p style="margin-top: 15px; margin-bottom: 5px; font-size: 14px;"><b>🚀 Frameworks</b></p>
+      <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,nodejs,tailwind&perline=6" />
-      
-      <p style="margin-top: 15px; margin-bottom: 5px; font-size: 14px;"><b>🗄️ Data & DevOps</b></p>
+      <br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git&perline=6" />
-      
-      <p style="margin-top: 15px; margin-bottom: 5px; font-size: 14px;"><b>⚙️ Hardware & IoT</b></p>
+      <br/><br/>
       <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros&perline=6" /><br/>
       <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
       <img src="https://img.shields.io/badge/FreeRTOS-232F3E?style=flat-square&logo=freertos&logoColor=white" />
