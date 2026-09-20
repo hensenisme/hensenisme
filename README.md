@@ -1,6 +1,6 @@
 <!-- Bento Box Theme README (Personalized for Hensen) -->
 <div align="center">
-  <h1 style="border-bottom: none;">Hensen's Dashboard</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hensen;Software+%26+IoT+Engineer;Building+End-to-End+Systems" alt="Typing SVG" /></a>
 </div>
 
 <br/>
@@ -10,12 +10,16 @@
   <tr>
     <td width="60%" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
       <h2 style="color: #a78bfa; margin-top:0; border-bottom: none;">👋 Hi, I'm Hensen</h2>
-      <p style="color: #cbd5e1; font-size: 16px; line-height: 1.6;">
-        A <b>Software & IoT Engineer</b> bridging the gap between Hardware and Cloud. I build end-to-end solutions—from microcontrollers and MQTT brokers to scalable Node.js backends and sleek Next.js/Flutter apps.
+      <p style="color: #cbd5e1; font-size: 15px; line-height: 1.6;">
+        <b>Software & IoT Engineer</b> bridging the gap between Hardware and Cloud.
       </p>
+      <ul>
+        <li>⚡ Building end-to-end IoT solutions from scratch.</li>
+        <li>🔌 Connecting microcontrollers with scalable Cloud backends.</li>
+        <li>📱 Designing sleek interfaces with Next.js & Flutter.</li>
+      </ul>
       <br/>
-      <br/>
-      <a href="mailto:hensenisme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+      <a href="mailto:hensenisme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       <!-- <a href="https://hensen.id"><img src="https://img.shields.io/badge/Website-hensen.id-0f172a?style=flat-square&logo=google-chrome&logoColor=white" /></a> -->
       <!-- <a href="https://linkedin.com/in/hendrig"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
     </td>
@@ -28,10 +32,10 @@
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git&perline=6" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros&perline=6" /><br/>
-      <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/badge/FreeRTOS-232F3E?style=flat-square&logo=freertos&logoColor=white" />
-      <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros&perline=6" /><br/><br/>
+      <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/FreeRTOS-232F3E?style=for-the-badge&logo=freertos&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
     </td>
   </tr>
   
