@@ -14,15 +14,28 @@
         A <b>Software & IoT Engineer</b> bridging the gap between Hardware and Cloud. I build end-to-end solutions—from microcontrollers and MQTT brokers to scalable Node.js backends and sleek Next.js/Flutter apps.
       </p>
       <br/>
-      <a href="https://hensen.id"><img src="https://img.shields.io/badge/Website-hensen.id-0f172a?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-      <a href="https://linkedin.com/in/hensenisme"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <br/>
       <a href="mailto:hensenisme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+      <!-- <a href="https://hensen.id"><img src="https://img.shields.io/badge/Website-hensen.id-0f172a?style=flat-square&logo=google-chrome&logoColor=white" /></a> -->
+      <!-- <a href="https://linkedin.com/in/hendrig"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a> -->
     </td>
-    <td width="40%" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; text-align: center; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+    <td width="40%" valign="top" align="center">
       <h3 style="color: #60a5fa; margin-top:0; border-bottom: none;">🛠 Tech Arsenal</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter,nodejs,postgres,mongodb,docker,arduino,raspberrypi&perline=4" />
-      </a>
+      
+      <p style="margin-bottom: 5px; font-size: 14px;"><b>💻 Languages</b></p>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart&perline=6" />
+      
+      <p style="margin-top: 15px; margin-bottom: 5px; font-size: 14px;"><b>🚀 Frameworks</b></p>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,nodejs,tailwind&perline=6" />
+      
+      <p style="margin-top: 15px; margin-bottom: 5px; font-size: 14px;"><b>🗄️ Data & DevOps</b></p>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git&perline=6" />
+      
+      <p style="margin-top: 15px; margin-bottom: 5px; font-size: 14px;"><b>⚙️ Hardware & IoT</b></p>
+      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros&perline=6" /><br/>
+      <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+      <img src="https://img.shields.io/badge/FreeRTOS-232F3E?style=flat-square&logo=freertos&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
     </td>
   </tr>
   
