@@ -42,7 +42,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3 style="color: #818cf8; font-size: 14px;">Development Stats</h3>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hensenisme&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hensenisme&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td width="50%" valign="top" align="center">
       <h3 style="color: #818cf8; font-size: 14px;">Top Languages</h3>
