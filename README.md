@@ -30,7 +30,7 @@
         <h3 style="color: #60a5fa; margin-top:0; border-bottom: none;">🛠 Tech Arsenal</h3>
       </div>
       <br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart,react,nextjs,vite,flutter,laravel,django,flask,nodejs,tailwind,postgres,mysql,mongodb,redis,supabase,docker,kubernetes,githubactions,terraform,linux,nginx,aws,azure,gcp,vercel,netlify,arduino,raspberrypi,ros&perline=9" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart,react,nextjs,vite,flutter,laravel,django,flask,nodejs,tailwind,postgres,mysql,mongodb,redis,supabase,postman,docker,kubernetes,githubactions,git,terraform,linux,nginx,aws,azure,gcp,vercel,netlify,arduino,raspberrypi,ros&perline=9" />
       <br/><br/>
       <img height="28" src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
       <img height="28" src="https://img.shields.io/badge/FreeRTOS-232F3E?style=for-the-badge&logo=freertos&logoColor=white" />
