@@ -30,17 +30,8 @@
         <h3 style="color: #60a5fa; margin-top:0; border-bottom: none;">🛠 Tech Arsenal</h3>
       </div>
       <br/>
-      <img height="40" src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart,react,nextjs,vite,flutter,laravel,django,flask,nodejs,tailwind,postgres,mysql,mongodb,redis,supabase,docker,kubernetes,githubactions,terraform,linux,nginx,aws,azure,gcp,vercel,netlify,arduino,raspberrypi,ros&perline=9" />
       <br/><br/>
-      <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,laravel,django,flask,nodejs,tailwind" />
-      <br/><br/>
-      <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
-      <br/><br/>
-      <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,linux,nginx" />
-      <br/><br/>
-      <img height="40" src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify" />
-      <br/><br/>
-      <img height="40" src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros" /><br/><br/>
       <img height="28" src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
       <img height="28" src="https://img.shields.io/badge/FreeRTOS-232F3E?style=for-the-badge&logo=freertos&logoColor=white" />
       <img height="28" src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
@@ -58,15 +49,4 @@
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hensenisme&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
-
-  <!-- Baris Ketiga -->
-  <tr>
-    <td colspan="2" valign="top" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; text-align: left; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-      <h3 style="color: #34d399; margin-top:0; border-bottom: none;">🚀 Featured Project: Digi-Plug (IoT Smart Home)</h3>
-      <p style="color: #cbd5e1; font-size: 15px; margin-bottom: 0;">
-        Built an end-to-end IoT Smart Home MVP from scratch. Leveraged <b>ESP32</b> and <b>MQTT</b> for hardware communication, managed data streams with <b>Node.js & MongoDB</b>, and wrapped it all in a seamless user experience using <b>Flutter</b> and <b>Next.js</b>.
-      </p>
-    </td>
-  </tr>
 </table>
-
