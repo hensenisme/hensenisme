@@ -25,23 +25,25 @@
 
   <!-- Baris Kedua: Tech Arsenal -->
   <tr>
-    <td colspan="2" valign="top" align="left" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-      <h3 style="color: #60a5fa; margin-top:0; border-bottom: none;">🛠 Tech Arsenal</h3>
+    <td colspan="2" valign="top" align="center" style="background: linear-gradient(135deg, #1e1b4b, #0f172a); border-radius: 20px; padding: 30px; border: 1px solid #334155; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+      <div align="left">
+        <h3 style="color: #60a5fa; margin-top:0; border-bottom: none;">🛠 Tech Arsenal</h3>
+      </div>
       <br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart&perline=8" />
+      <img height="40" src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,laravel,django,flask,nodejs,tailwind&perline=9" />
+      <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,vite,flutter,laravel,django,flask,nodejs,tailwind" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase&perline=8" />
+      <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,linux,nginx&perline=8" />
+      <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,terraform,linux,nginx" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify&perline=8" />
+      <img height="40" src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify" />
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros&perline=8" /><br/><br/>
-      <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-      <img src="https://img.shields.io/badge/FreeRTOS-232F3E?style=for-the-badge&logo=freertos&logoColor=white" />
-      <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+      <img height="40" src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros" /><br/><br/>
+      <img height="28" src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+      <img height="28" src="https://img.shields.io/badge/FreeRTOS-232F3E?style=for-the-badge&logo=freertos&logoColor=white" />
+      <img height="28" src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
     </td>
   </tr>
   
